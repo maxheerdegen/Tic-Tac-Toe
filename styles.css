@@ -2,4 +2,12 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
+    width: 500px;
+    height: 500px;
+    gap: 5px
+    ;
+}
+
+.cell {
+    font-size: 50px;
 }
